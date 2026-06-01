@@ -5,8 +5,8 @@ Este repositório documenta minha jornada de aprendizado na linguagem C#. Aqui e
 ## Estrutura das Pastas
 
 - **/Lógica e estruturas de decisão**: Exercícios sobre `if/else` e `switch`.
-- **/02-Lacos-de-Repeticao**: Práticas com `for`, `while` e `do-while`.
-- **/03-Arrays-e-Listas**: Manipulação de vetores e listas.
-- **/04-Programacao-Orientada-a-Objetos**: Exercícios sobre Classes, Objetos, Propriedades e Métodos.
+- **/Laços de repetição**: Práticas com `for`, `while` e `do-while`.
+- **/Arrays/Listas e Matrix**: Manipulação de vetores e listas.
+- **/Programação orientada a obejtos**: Exercícios sobre Classes, Objetos, Propriedades e Métodos.
 
 Este é um projeto de estudo contínuo. Sinta-se à vontade para explorar o código e acompanhar meu progresso.
